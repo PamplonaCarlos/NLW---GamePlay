@@ -29,8 +29,6 @@ translucent/>
         e organize suas {'\n'}
         jogatinas
       </Text>
-      
-
 
       <Text style = {styles.subtitle}>
       
